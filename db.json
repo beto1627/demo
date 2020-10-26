@@ -12,9 +12,17 @@
     "name": "typicode"
   },
   "tipoCambio":[
-	{"fechaCambio": "19/10/2020", "from":"USD","to":"PEN", "value":"3.55"},
-	{"fechaCambio": "19/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
-	{"fechaCambio": "20/10/2020", "from":"USD","to":"PEN", "value":"3.45"},
-	{"fechaCambio": "20/10/2020", "from":"PEN","to":"PEN", "value":"1.00"}
+	{"fechaCambio": "25/10/2020", "from":"USD","to":"PEN", "value":"3.55"},
+	{"fechaCambio": "25/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
+	{"fechaCambio": "25/10/2020", "from":"EUR","to":"PEN", "value":"4.20"},
+	{"fechaCambio": "26/10/2020", "from":"USD","to":"PEN", "value":"3.45"},
+	{"fechaCambio": "26/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
+	{"fechaCambio": "26/10/2020", "from":"EUR","to":"PEN", "value":"4.30"},
+	{"fechaCambio": "27/10/2020", "from":"USD","to":"PEN", "value":"3.45"},
+	{"fechaCambio": "27/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
+	{"fechaCambio": "27/10/2020", "from":"EUR","to":"PEN", "value":"4.30"},
+	{"fechaCambio": "28/10/2020", "from":"USD","to":"PEN", "value":"3.45"},
+	{"fechaCambio": "28/10/2020", "from":"PEN","to":"PEN", "value":"1.00"},
+	{"fechaCambio": "28/10/2020", "from":"EUR","to":"PEN", "value":"4.30"},
   ]
 }
